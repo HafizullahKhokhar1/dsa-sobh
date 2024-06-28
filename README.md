@@ -8,7 +8,8 @@ Aside form four different machine learning models, the project also uses a deep 
 ## Disclaimer
 This project is for educational purposes only and is not intended for commercial use. The project is not affiliated with the BBC News Urdu website in any way.
 
-Checkout and contribuite to the Sindhi Stopwords repository [here](https://github.com/alinawazuob/sindhi-TPTS/).
+- Checkout and contribuite to the Sindhi Stopwords repository [here](https://github.com/alinawazuob/sindhi-TPTS/).
+- Checkout **BBC News Urdu DSA** (Scrapper and dataset training with different techinques and models) repository [here](https://github.com/FurqanHun/BBC_Urdu_DSA).
 
 ## Contributor
 - [Furqan Hun](https://github.com/furqanhun)
